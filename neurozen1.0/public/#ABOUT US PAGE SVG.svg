@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1920 1080">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: Brand, Brand;
+        font-size: 26.52px;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: #fff;
+      }
+
+      .cls-6 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        font-family: Couture-Bold, Couture;
+        font-size: 400px;
+        font-weight: 700;
+        letter-spacing: .07em;
+        opacity: .33;
+        stroke: #2ad8b6;
+        stroke-miterlimit: 10;
+        stroke-width: 4px;
+      }
+
+      .cls-3 {
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 13.85px;
+      }
+
+      .cls-4 {
+        font-family: AcuminPro-Regular, 'AcuminPro Regular';
+        font-size: 11px;
+        letter-spacing: .4em;
+      }
+
+      .cls-7 {
+        fill: url(#radial-gradient-2);
+        mix-blend-mode: overlay;
+      }
+
+      .cls-7, .cls-8, .cls-5 {
+        stroke-width: 0px;
+      }
+
+      .cls-8 {
+        fill: url(#radial-gradient);
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="890.49" cy="884.05" fx="890.49" fy="884.05" r="1740.02" gradientTransform="translate(393.03 10.1) scale(.64 .6)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#001d29"/>
+      <stop offset=".4" stop-color="#001927"/>
+      <stop offset=".75" stop-color="#000f21"/>
+      <stop offset="1" stop-color="#00021a"/>
+    </radialGradient>
+    <radialGradient id="radial-gradient-2" cx="897.98" cy="326.68" fx="897.98" fy="326.68" r="2100.39" gradientTransform="translate(388.37 233.32) scale(.64 .6)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#000"/>
+    </radialGradient>
+  </defs>
+  <g class="cls-6">
+    <g id="ABOUT_US_PAGE" data-name="ABOUT US PAGE">
+      <g>
+        <rect class="cls-8" x="2.74" y=".53" width="1921" height="1080"/>
+        <rect class="cls-7" x="3.74" y=".53" width="1919" height="1080"/>
+        <text class="cls-2" transform="translate(2.74 350.12)"><tspan x="0" y="0">ABOUT</tspan><tspan x="0" y="480">US</tspan></text>
+        <g>
+          <g>
+            <text class="cls-1" transform="translate(1600.81 295.18) scale(1.13 1)"><tspan x="0" y="0">Chris Smith</tspan></text>
+            <rect class="cls-5" x="1578.65" y="333.29" width="223.09" height="172.17"/>
+            <text class="cls-3" transform="translate(1582.39 533.6) scale(1.13 1)"><tspan x="0" y="0">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="16.62">consectetuer adipiscing elit, sed </tspan><tspan x="0" y="33.25">diam nonummy nibh euismod </tspan><tspan x="0" y="49.87">tincidunt ut laoreet dolore </tspan><tspan x="0" y="66.49">magna aliquam </tspan></text>
+            <text class="cls-3" transform="translate(1582.02 634.88) scale(1.13 1)"><tspan x="0" y="0">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="16.62">consectetuer adipiscing elit, sed </tspan><tspan x="0" y="33.25">diam nonummy nibh euismod </tspan><tspan x="0" y="49.87">tincidunt ut laoreet dolore </tspan><tspan x="0" y="66.49">magna aliquam </tspan></text>
+            <text class="cls-3" transform="translate(1581.88 731.5) scale(1.13 1)"><tspan x="0" y="0">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="16.62">consectetuer adipiscing elit, sed </tspan><tspan x="0" y="33.25">diam nonummy nibh euismod </tspan><tspan x="0" y="49.87">tincidunt ut laoreet dolore </tspan><tspan x="0" y="66.49">magna aliquam </tspan></text>
+          </g>
+          <g>
+            <text class="cls-1" transform="translate(1276.99 295.18) scale(1.13 1)"><tspan x="0" y="0">Anna Smith</tspan></text>
+            <rect class="cls-5" x="1255.14" y="333.29" width="223.09" height="172.17"/>
+            <text class="cls-3" transform="translate(1258.88 533.6) scale(1.13 1)"><tspan x="0" y="0">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="16.62">consectetuer adipiscing elit, sed </tspan><tspan x="0" y="33.25">diam nonummy nibh euismod </tspan><tspan x="0" y="49.87">tincidunt ut laoreet dolore </tspan><tspan x="0" y="66.49">magna aliquam </tspan></text>
+            <text class="cls-3" transform="translate(1255.02 630.26) scale(1.13 1)"><tspan x="0" y="0">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="16.62">consectetuer adipiscing elit, sed </tspan><tspan x="0" y="33.25">diam nonummy nibh euismod </tspan><tspan x="0" y="49.87">tincidunt ut laoreet dolore </tspan><tspan x="0" y="66.49">magna aliquam </tspan></text>
+            <text class="cls-3" transform="translate(1254.87 726.88) scale(1.13 1)"><tspan x="0" y="0">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="16.62">consectetuer adipiscing elit, sed </tspan><tspan x="0" y="33.25">diam nonummy nibh euismod </tspan><tspan x="0" y="49.87">tincidunt ut laoreet dolore </tspan><tspan x="0" y="66.49">magna aliquam </tspan></text>
+          </g>
+          <g>
+            <text class="cls-1" transform="translate(949.41 295.18) scale(1.13 1)"><tspan x="0" y="0">Deidra Smith</tspan></text>
+            <rect class="cls-5" x="931.36" y="333.29" width="223.09" height="172.17"/>
+            <text class="cls-3" transform="translate(935.11 533.6) scale(1.13 1)"><tspan x="0" y="0">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="16.62">consectetuer adipiscing elit, sed </tspan><tspan x="0" y="33.25">diam nonummy nibh euismod </tspan><tspan x="0" y="49.87">tincidunt ut laoreet dolore </tspan><tspan x="0" y="66.49">magna aliquam </tspan></text>
+            <text class="cls-3" transform="translate(935.21 630.26) scale(1.13 1)"><tspan x="0" y="0">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="16.62">consectetuer adipiscing elit, sed </tspan><tspan x="0" y="33.25">diam nonummy nibh euismod </tspan><tspan x="0" y="49.87">tincidunt ut laoreet dolore </tspan><tspan x="0" y="66.49">magna aliquam </tspan></text>
+            <text class="cls-3" transform="translate(935.06 726.88) scale(1.13 1)"><tspan x="0" y="0">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="16.62">consectetuer adipiscing elit, sed </tspan><tspan x="0" y="33.25">diam nonummy nibh euismod </tspan><tspan x="0" y="49.87">tincidunt ut laoreet dolore </tspan><tspan x="0" y="66.49">magna aliquam </tspan></text>
+          </g>
+          <g>
+            <text class="cls-1" transform="translate(628.37 295.18) scale(1.13 1)"><tspan x="0" y="0">Kacey </tspan><tspan x="0" y="31.82">Smith</tspan></text>
+            <rect class="cls-5" x="607.72" y="333.29" width="223.09" height="172.17"/>
+            <text class="cls-3" transform="translate(611.47 533.82) scale(1.13 1)"><tspan x="0" y="0">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="16.62">consectetuer adipiscing elit, sed </tspan><tspan x="0" y="33.25">diam nonummy nibh euismod </tspan><tspan x="0" y="49.87">tincidunt ut laoreet dolore </tspan><tspan x="0" y="66.49">magna aliquam </tspan></text>
+            <text class="cls-3" transform="translate(607.98 630.54) scale(1.13 1)"><tspan x="0" y="0">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="16.62">consectetuer adipiscing elit, sed </tspan><tspan x="0" y="33.25">diam nonummy nibh euismod </tspan><tspan x="0" y="49.87">tincidunt ut laoreet dolore </tspan><tspan x="0" y="66.49">magna aliquam </tspan></text>
+            <text class="cls-3" transform="translate(607.83 727.17) scale(1.13 1)"><tspan x="0" y="0">Lorem ipsum dolor sit amet, </tspan><tspan x="0" y="16.62">consectetuer adipiscing elit, sed </tspan><tspan x="0" y="33.25">diam nonummy nibh euismod </tspan><tspan x="0" y="49.87">tincidunt ut laoreet dolore </tspan><tspan x="0" y="66.49">magna aliquam </tspan></text>
+          </g>
+        </g>
+        <g>
+          <g id="Footer_Text" data-name="Footer Text">
+            <text class="cls-4" transform="translate(584.07 886.91)"><tspan x="0" y="0">COMPANY</tspan><tspan x="0" y="39.6">HOME</tspan><tspan x="0" y="66">FEATURES</tspan><tspan x="0" y="92.4">STORE</tspan><tspan x="0" y="118.8">DOWNLOAD</tspan></text>
+            <text class="cls-4" transform="translate(1038.24 886.91)"><tspan x="0" y="0">HELP</tspan><tspan x="0" y="39.6">HELP CENTER</tspan><tspan x="0" y="66">GET STARTED</tspan><tspan x="0" y="92.4">CONTACT US</tspan><tspan x="0" y="118.8">FAQ</tspan></text>
+            <text class="cls-4" transform="translate(1257.47 886.91)"><tspan x="0" y="0">CONNECT</tspan><tspan x="0" y="39.6">SOCIAL 1</tspan><tspan x="0" y="66">SOCIAL 2</tspan><tspan x="0" y="92.4">SOCIAL 3</tspan></text>
+            <text class="cls-4" transform="translate(792.78 886.91)"><tspan x="0" y="0">ABOUT</tspan><tspan x="0" y="39.6">ABOUT US</tspan><tspan x="0" y="66">BLOG</tspan><tspan x="0" y="92.4">PRIVACY POLICY</tspan><tspan x="0" y="118.8">TERMS OF SERVICE</tspan></text>
+          </g>
+          <rect class="cls-5" x="2.74" y="859.53" width="1920" height="2"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
